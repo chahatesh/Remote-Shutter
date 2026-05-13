@@ -9,7 +9,7 @@ It has only two inputs/outputs:
 * A physical push button to trigger recording/shutter action
 * An OLED display that shows recording status and elapsed time
 
-There are no sensors, no wireless features, no battery system, and no expandable modules. It is designed to be simple, fast, and reliable for basic camera control projects.
+There are no sensors, no battery system, and no expandable modules. It is designed to be simple, fast, and reliable for camera control projects.
 
 ---
 
