@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a very simple camera shutter controller built using a standard ESP32 Dev Kit from entity["company","Espressif Systems","ESP32 manufacturer"].
+This project is a very simple camera shutter controller built using a standard ESP32 Dev Kit
 
 It has only two inputs/outputs:
 
