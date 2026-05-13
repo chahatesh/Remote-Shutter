@@ -166,17 +166,6 @@ void loop()
 
 ---
 
-## Folder Structure
-
-```
-ESP32-OLED-Shutter/
-│
-├── README.md
-├── main.ino
-└── wiring_diagram.png
-```
-
----
 
 ## License
 
@@ -186,4 +175,4 @@ MIT License
 
 ## Credits
 
-Built by Chahatesh using ESP32 Dev Kit and Arduino IDE.
+Built by Chahatesh Killada using ESP32 Dev Kit and Arduino IDE
